@@ -1,0 +1,10 @@
+C:\Users\dimak\OneDrive\Рабочий стол\шарпики\lab_1_11\lab_1_11\bin\Debug\lab_1_11.exe.config
+C:\Users\dimak\OneDrive\Рабочий стол\шарпики\lab_1_11\lab_1_11\bin\Debug\lab_1_11.exe
+C:\Users\dimak\OneDrive\Рабочий стол\шарпики\lab_1_11\lab_1_11\bin\Debug\lab_1_11.pdb
+C:\Users\dimak\OneDrive\Рабочий стол\шарпики\lab_1_11\lab_1_11\obj\Debug\lab_1_11.csproj.AssemblyReference.cache
+C:\Users\dimak\OneDrive\Рабочий стол\шарпики\lab_1_11\lab_1_11\obj\Debug\lab_1_11.Form1.resources
+C:\Users\dimak\OneDrive\Рабочий стол\шарпики\lab_1_11\lab_1_11\obj\Debug\lab_1_11.Properties.Resources.resources
+C:\Users\dimak\OneDrive\Рабочий стол\шарпики\lab_1_11\lab_1_11\obj\Debug\lab_1_11.csproj.GenerateResource.cache
+C:\Users\dimak\OneDrive\Рабочий стол\шарпики\lab_1_11\lab_1_11\obj\Debug\lab_1_11.csproj.CoreCompileInputs.cache
+C:\Users\dimak\OneDrive\Рабочий стол\шарпики\lab_1_11\lab_1_11\obj\Debug\lab_1_11.exe
+C:\Users\dimak\OneDrive\Рабочий стол\шарпики\lab_1_11\lab_1_11\obj\Debug\lab_1_11.pdb
